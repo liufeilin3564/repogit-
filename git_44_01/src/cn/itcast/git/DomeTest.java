@@ -10,5 +10,9 @@ public class DomeTest {
         System.out.println("git61");
         System.out.println("git51");
 
+        System.out.println("git31");
+        System.out.println("git21");
+        System.out.println("git11");
+
     }
 }
