@@ -6,5 +6,9 @@ public class DomeTest {
         System.out.println("git02");
         System.out.println("git03");
         System.out.println("git01");
+        System.out.println("git31");
+        System.out.println("git21");
+        System.out.println("git11");
+
     }
 }
